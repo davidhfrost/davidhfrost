@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @davidhfrost, a junior studying computer science at Case Western Reserve University
-- 👀 I’m interested in software engineering internships in Spring/Winter 2023, Summer 2023, and Fall 2023
+- 👋 Hi, I’m @davidhfrost, a risin senior studying computer science at Case Western Reserve University
+- 👀 I’m interested in New Grad opportunities in Software Engineering, Data Science, or Product Management starting in 2024
 - 📫 How to reach me: dhfrost@outlook.com or https://www.linkedin.com/in/davidhfrost/
 
 <!---
