@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @davidhfrost, a Software Engineer at Capital One and graduate of Case Western Reserve University with an MS and BS in Computer Science
-- 💻 I have experience in backend, DevOps, SRE, databases, full-stack, frontend, CI/CD, infrastructure, and cloud
+- 💻 I have experience in backend, distributed systems, cloud, full-stack, databases, infrastructure, frontend, and CI/CD
 - 📫 How to reach me: dhfrost@outlook.com or https://www.linkedin.com/in/davidhfrost/
 
 <!---
